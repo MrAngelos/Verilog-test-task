@@ -1,0 +1,16 @@
+# Vivado / Xilinx generated files
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.gen
+*.srcs
+*.jou
+*.log
+*.str
+*.wdb
+*.dcp
+*.pb
+.Xil/
+.vivado/
